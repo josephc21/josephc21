@@ -14,3 +14,13 @@ Mi nombre es Joseph, soy originario de Tijuana B.C (México), actualmente curso 
 |5:00     |Redes de Computadoras|Redes de Computadoras|Redes de Computadoras|Redes de Computadoras|Redes de Computadoras|
 |6:00     |Patrones de Diseño|Patrones de Diseño|Patrones de Diseño|Patrones de Diseño|Patrones de Diseño|
 |7:00     |Análisis Avanzado de Software|Análisis Avanzado de Software|Análisis Avanzado de Software|Análisis Avanzado de Software|Análisis Avanzado de Software|
+
+### Y recuerda que ...🧘🏻‍♂️
+```Java
+public class Frase {
+    public static void main(String[] args) {
+        System.out.println("La función de un buen software es hacer que lo complejo parezca simple.");
+        System.out.println("– Grady Booch 🧔");
+    }
+}
+```

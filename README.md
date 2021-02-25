@@ -1,9 +1,9 @@
 # Bienvenido a mi perfil de estudiante 🖐
 
-### Un poco sobre mí:
-Mi nombre es Joseph, soy originario de Tijuana B.C (México), actualmente curso la carrera de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana y soy de 7mo semestre. 👨🏻‍💻
+### Un poco sobre mí 👨🏻‍💻:
+Mi nombre es Joseph, soy originario de Tijuana B.C (México), actualmente curso la carrera de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana y soy de 7mo semestre. 
 
-### A continuación comparto mi horario de clases: ⏰
+### A continuación comparto mi horario de clases ⏰: 
 
 |pm   |Lunes   |Martes   |Miércoles   |Jueves   |Viernes   |
 |---|---|---|---|---|---|

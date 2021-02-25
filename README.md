@@ -1,4 +1,4 @@
-# Bienvenido a mi perfil de estudiante colega 🖐
+# Bienvenido a mi perfil de estudiante 🖐
 
 <!--
 **josephc21/josephc21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

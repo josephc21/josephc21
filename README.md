@@ -24,6 +24,8 @@ public class Frase {
     }
 }
 ```
+
 #### Grady Booch 🧔
+
 ![Alt Text](https://kimmicblog.files.wordpress.com/2012/02/grady-headshot1.jpg)
 [Breve biografía de Grady Booch 🧔](https://www.ecured.cu/Grady_Booch)
